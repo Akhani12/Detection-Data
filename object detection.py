@@ -1,4 +1,3 @@
-import necessary packages
 import cvlib as cv
 from cvlib.object_detection import draw_bbox
 import sys
